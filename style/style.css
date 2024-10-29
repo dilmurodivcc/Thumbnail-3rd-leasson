@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    max-width: 100vw;
+    background: linear-gradient(225deg, #efafbc 0%, #c3e3fa 100%);
+    overflow: hidden;
+}
